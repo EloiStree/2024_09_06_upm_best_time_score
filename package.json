@@ -1,14 +1,14 @@
-
-{                                                                                
-  "name": "be.elab.besttiming",                              
-  "displayName": "Best Timing Score",                        
-  "version": "0.0.1",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Tool to quickly put a timer in your mini game with a save of the best score.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},       
+{
+  "name": "be.elab.besttiming",
+  "displayName": "\ud83e\uddf0 Best Timing Score",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Tool to quickly put a timer in your mini game with a save of the best score.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
   "samples": [
     {
       "displayName": "Demo Scene",
@@ -20,11 +20,12 @@
     "name": "Eloi Stree",
     "mail": "",
     "url": "https://github.com/EloiStree/"
-  },  
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2024_09_06_BestTimingScore.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"         
-} 
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2024_09_06_BestTimingScore.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
