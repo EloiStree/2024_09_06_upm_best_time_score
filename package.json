@@ -1,6 +1,6 @@
 {
   "name": "be.elab.besttiming",
-  "displayName": "\ud83e\uddf0 Best Timing Score",
+  "displayName": "\ud83e\uddf0: Best Timing Score",
   "version": "0.0.1",
   "unity": "2018.1",
   "description": "Tool to quickly put a timer in your mini game with a save of the best score.",
